@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Jeevan 👋
 
 **Data & ML Engineer | Cloud‑Native Pipelines | Cricket Nerd**
